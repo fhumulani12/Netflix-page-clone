@@ -1,0 +1,237 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+   
+}
+body{
+    background-color: #1E1E1E;
+  
+
+}
+.background{
+    width: 1600px;
+    height: 700px;
+   position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.logo{
+    width: 218px;
+    height: 122px;
+    position: absolute;
+    left: 45px;
+    top: 0px;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    left: 967px;
+    top: 31px;
+    position: absolute;
+    background-color: #E50914;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    margin-left: 200px;
+    cursor: pointer;
+}
+.nav{
+    gap:769px;
+}
+.text{
+    text-align: center;
+    color: white;   
+    width: 575px;
+    height: 122px;
+    left: 372px;
+    top: 238px;
+    position: absolute;
+}
+.heading{
+  font-size: 50px;
+  font-weight: bold;
+}
+.paragraph1{
+    font-size: 25px;
+    margin-top: 17px;
+
+}
+.paragraph2{
+    font-size: 25px;
+    margin-top: 17px;
+}
+.btninput{
+    margin-top: 17px;
+    display: flex;
+}
+.input{
+    width: 459px;
+    height: 50px;
+ 
+}
+.btninput1{
+    height: 50px;
+    width: 100px;
+    background-color: #E50914;
+    border: none;
+    color: white;
+    margin-right: 15px;
+}
+.show{
+    color: white;
+    position: absolute;
+    background-color: black;
+    width: 1600px;
+    height: 312px;
+    top: 342px;
+    left: 0px;;
+    margin-top: 370px;
+    
+} 
+.heading-show{
+    font-size: 50px;
+    font-weight: 50px;
+    margin-top: 60px;
+    margin-left: 150px;
+}
+.paragraph-show{
+    font-size: 25px ;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.television{
+    width: 276px;
+    height: 240px;
+    position: absolute;
+    top: 730px;
+    left: 1000px;
+}
+
+.imagestv{
+    display: flex;
+    position: absolute;
+}
+.phone{
+    width: 276px;
+    height: 240px;
+    position: absolute;
+    top: 40px;
+    right: 1200px;
+}
+.download{
+    color: white;
+    position: absolute;
+    background-color: black;
+    width: 1600px;
+    height: 312px;
+    top: 342px;
+    left: 0px;;
+    margin-top: 695px;
+    
+
+}
+.heading-download{
+    font-size: 50px;
+    font-weight: 50px;
+    margin-top: 60px;
+    margin-left: 480px;
+
+}
+.paragraph-download{
+    font-size: 25px ;
+    margin-top: 20px;
+    margin-left: 480px;
+}
+.watch{
+    color: white;
+    position: absolute;
+    background-color: black;
+    width: 1600px;
+    height: 312px;
+    top: 342px;
+    left: 0px;;
+    margin-top: 1020px;
+}
+.heading-watch{
+    
+    font-size: 50px;
+    font-weight: 50px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.paragraph-watch{
+    font-size: 25px ;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.kids{
+    color: white;
+    position: absolute;
+    background-color: black;
+    width: 1600px;
+    height: 450px;
+    top: 342px;
+    left: 0px;;
+    margin-top: 1350px;
+
+}
+.heading-kids{
+    font-size: 50px;
+    font-weight: 50px;
+    margin-top: 60px;
+    margin-left: 700px;
+
+}
+.paragraph-kids{
+    
+    font-size: 25px ;
+    margin-top: 20px;
+    margin-left: 700px;
+
+
+}
+.kidsprofile{
+    width: 478px;
+    height: 329px;
+    position: absolute;
+    top: 80px ;
+    left: 78px;
+}
+.kidstext{
+    margin-top: 150px;
+}
+.questions{
+    color: white;
+    position: absolute;
+    background-color: black;
+    width: 1600px;
+    height: 900px;
+    top: 342px;
+    left: 0px;;
+    margin-top: 1900px;
+    text-align: center;
+}
+.heading-questions{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+ul{
+    font-size: 50px;
+    
+}
+li{
+    padding-top: 30px;
+}
+.plus   {
+    background: none;
+    font-size: 30px;
+    color: white;
+    border: none;
+}
+.popup{
+    font-size: 15px;
+}
+

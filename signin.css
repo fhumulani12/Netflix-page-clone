@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+body{
+    background-image: url(images/signinb.png);
+}
+.container{
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.596);
+    width: 503px;
+    height: 700px;
+    top: 91px;
+    left: 428px;
+    position: absolute;
+}
+.signintxt{
+    font-size: 45px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.inputmail{
+    height: 47px;
+    width: 388px;
+    border-radius: 5px;
+    border: none;
+    margin-top:80px;
+}
+.inputpass{
+    height: 47px;
+    width: 388px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+
+}
+.btnsignin{
+    height: 47px;
+    width: 388px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+    background-color: #E50914;
+    color: white;
+    font-weight: bold;
+}
+.position{
+    margin-top: 10px;
+    display: flex;
+    gap: 160px;
+    margin-left: 50px;
+}
+.check{
+    margin-left: 20px;
+}
+.final{
+    margin-top: 80px;
+}
+.finaltxt{
+    color: #898989;
+}
+.finaltxt span{
+    color: white;
+}
+.pfinal{
+    margin-top: 10px;
+
+}
+.pfinal span a{
+    text-decoration: none;
+    color: rgb(46, 46, 163);
+}
